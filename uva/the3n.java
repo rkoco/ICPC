@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// uva problem 100
 
 public class the3n {
 	static long[] dp = new long[1000000];

@@ -1,5 +1,7 @@
 import java.util.*;
 
+//uva problem 10377
+
 public class Maze {
     static int posx=0;
     static int posy=0;

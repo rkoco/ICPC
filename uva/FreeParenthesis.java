@@ -3,6 +3,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashSet;
 
+//uva 1238, time limit, not tested in other languages
+
 public class FreeParenthesis {
 
 	static HashSet<Integer>[][] mem;

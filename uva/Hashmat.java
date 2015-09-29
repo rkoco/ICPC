@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//uva 10055
 
 public class Hashmat {
 

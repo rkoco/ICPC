@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//uva problem 796
+
 public class CriticalLinks {
 
 	static int[][] matrix;

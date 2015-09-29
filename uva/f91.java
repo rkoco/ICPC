@@ -1,3 +1,5 @@
+//uva problem 10696
+
 import java.util.Scanner;
 
 
