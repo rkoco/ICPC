@@ -1,3 +1,3 @@
 # ICPC
 
-Solutions to problems fro uva, livearchive, etc. Practice to ICPC
+Solutions to problems from uva, livearchive, etc. Practice to ICPC
